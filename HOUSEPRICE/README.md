@@ -9,4 +9,8 @@ conda activate mlenv/                 OR  . mlenv/bin/activate
 ---
 pip install -r requirements.txt
 ---
+### install kernel
+---
+pip install ipykernel
+---
 
