@@ -3,4 +3,5 @@ pandas
 seaborn
 sklearn
 ipykernel
+flask
 -e .
