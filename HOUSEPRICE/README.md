@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ---
 pip install ipykernel
 ---
+
+### Run dockerfile
+---
+docker build -t diamondprediction:latest .
+---
