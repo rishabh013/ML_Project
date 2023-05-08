@@ -39,5 +39,3 @@ K-nearest neighbour machine using creating confusion matrix of predicted values,
 Next model I wanted to try was random forest and I will also get features importances using it, again using gridsearchcv to get best parameters and fitting best parameters to it I got very good accuracy 97.6.
 
 Random forest was giving very good accuracy. We can also try artificial neural network to get a improved accuracy.
-
-## FEATURE IMPORTANCES
