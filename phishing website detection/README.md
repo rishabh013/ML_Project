@@ -3,7 +3,7 @@ Detection of phishing websites is a really important safety measure for most of 
 
 ## DATA SELECTION
 
-The dataset is downloaded from UCI machine learning repository. The dataset contains 31 columns, with 30 features and 1 target. The dataset has 2456 observations.
+The dataset is downloaded from UCI machine learning repository. The dataset contains 31 columns, with 30 features and 1 target. The dataset has 6992 observations.
 
 ## MODELS
 
@@ -41,6 +41,3 @@ Next model I wanted to try was random forest and I will also get features import
 Random forest was giving very good accuracy. We can also try artificial neural network to get a improved accuracy.
 
 ## FEATURE IMPORTANCES
-
-![FEATURE IMPORTANCE](https://raw.githubusercontent.com/abhishekdid/PHISHCOOP-phishing-website-detection/master/variable_Importances.png)
-
