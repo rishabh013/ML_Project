@@ -1,23 +1,18 @@
 # END to END ML PROJECT
 
-### Created new environment
+### 1,Created new environment
 ---
 conda create -p mlenv python==3.8     OR  python3 -m venv mlenv
 ---
-### Activate the environment
+### 2.Activate the environment
 ---
 conda activate mlenv/                 OR  . mlenv/bin/activate
 ---
-### Instal all necessary liberies
+### 3.Instal all necessary liberies
 ---
 pip install -r requirements.txt
 ---
-### install kernel
+### 4.install kernel
 ---
 pip install ipykernel
----
-
-### Run dockerfile
----
-docker build -t diamondprediction:latest .
 ---
