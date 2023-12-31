@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user01/01_data/ML_Project/mlflow/mlruns/0/89269c4651414c4db48d6d84cc14310b/artifacts
+end_time: 1704026812750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89269c4651414c4db48d6d84cc14310b
+run_name: traveling-sponge-180
+run_uuid: 89269c4651414c4db48d6d84cc14310b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704026810009
+status: 3
+tags: []
+user_id: user01
